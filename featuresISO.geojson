@@ -1,0 +1,2677 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Stone Town, Zanzibar",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Stone_Town",
+        "CountryISO": "TZA"
+      },
+      "geometry": {
+        "coordinates": [
+          39.18665,
+          -6.162998
+        ],
+        "type": "Point"
+      },
+      "id": "005c23c2f32b69f4e12614c5252a3a03"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Versailles, France",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+        "CountryISO": "FRA"
+      },
+      "geometry": {
+        "coordinates": [
+          2.288185,
+          48.855179
+        ],
+        "type": "Point"
+      },
+      "id": "097010a3d5ab4394a81e491a305065f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Red Rock Canyon National Conservation Area, Nevada",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Red_Rock_Canyon_National_Conservation_Area",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.427915,
+          36.135624
+        ],
+        "type": "Point"
+      },
+      "id": "1e074e8765ffb3e894cc801bb05e151d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Patong Beach, Thailand",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Patong",
+        "CountryISO": "THA"
+      },
+      "geometry": {
+        "coordinates": [
+          98.295391,
+          7.89676
+        ],
+        "type": "Point"
+      },
+      "id": "2b2e9667c459db78ecf0bb69a59b7349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Acatenango, Guatemala",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Acatenango",
+        "CountryISO": "GTM"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.875169,
+          14.501919
+        ],
+        "type": "Point"
+      },
+      "id": "30e4d155ccf3b8a0466185590f1df8e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Montañita, Ecuador",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Monta%C3%B1ita",
+        "CountryISO": "ECU"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.752932,
+          -1.82821
+        ],
+        "type": "Point"
+      },
+      "id": "3593fddf7c1c9976ea34e40fe8ca82b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "The Twelve Apostles, Australia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/The_Twelve_Apostles_(Victoria)",
+        "CountryISO": "AUS"
+      },
+      "geometry": {
+        "coordinates": [
+          143.104268,
+          -38.666119
+        ],
+        "type": "Point"
+      },
+      "id": "4b24d893af5b964296b321de517d2891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Palma de Mallorca, Spain",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Palma_de_Mallorca",
+        "CountryISO": "ESP"
+      },
+      "geometry": {
+        "coordinates": [
+          2.647338,
+          39.562193
+        ],
+        "type": "Point"
+      },
+      "id": "61e9cc820420a08a0c912dba8a654000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Great Barrier Reef, Australia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+        "CountryISO": "AUS"
+      },
+      "geometry": {
+        "coordinates": [
+          146.004211,
+          -16.832084
+        ],
+        "type": "Point"
+      },
+      "id": "6d10abda276ac128e603f14fabcdbf85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Fitzroy Island National Park, Australia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Fitzroy_Island_(Queensland)",
+        "CountryISO": "AUS"
+      },
+      "geometry": {
+        "coordinates": [
+          145.995235,
+          -16.932811
+        ],
+        "type": "Point"
+      },
+      "id": "701291c6549d55442580ae239645ec17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Wichita Mountains National Wildlife Refuge, Oklahoma",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Wichita_Mountains_Wildlife_Refuge",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.658194,
+          34.753054
+        ],
+        "type": "Point"
+      },
+      "id": "713670e70c3066cf4e2dde1872992e9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Vatnajokull National Park, Iceland",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Vatnaj%C3%B6kull",
+        "CountryISO": "ISL"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.232436,
+          64.078866
+        ],
+        "type": "Point"
+      },
+      "id": "77149a2e74bd7728abb1cc10704be912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Acadia National Park, Maine",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Acadia_National_Park",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.215625,
+          44.35621
+        ],
+        "type": "Point"
+      },
+      "id": "7b998fff9d8f4e63de68d185b4beda7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Lago de Atitlan, Guatemala",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Lake_Atitl%C3%A1n",
+        "CountryISO": "GTM"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.198541,
+          14.701948
+        ],
+        "type": "Point"
+      },
+      "id": "8a8b451b88e2c10f459e85e7f2e2f5d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Volcan de Pichincha, Ecuador",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Pichincha_(volcano)",
+        "CountryISO": "ECU"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.604463,
+          -0.166317
+        ],
+        "type": "Point"
+      },
+      "id": "91298c0d087f453b551a73ddea650fcb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bettolle, Italy",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Bettolle",
+        "CountryISO": "ITA"
+      },
+      "geometry": {
+        "coordinates": [
+          11.803991,
+          43.205855
+        ],
+        "type": "Point"
+      },
+      "id": "a4d243a28d069b5168f14445ebd7867c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Volcan de Fuego, Guatemala",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego",
+        "CountryISO": "GTM"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.87971,
+          14.474222
+        ],
+        "type": "Point"
+      },
+      "id": "aac6eccf1acae8484bff45e67fc4e3bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Puerto Escondido, México",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Puerto_Escondido,_Oaxaca",
+        "CountryISO": "MEX"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.072917,
+          15.858423
+        ],
+        "type": "Point"
+      },
+      "id": "c4833ad7437b0823fb75a8fce9737d89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Yarra Valley, Australia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Yarra_Valley_(wine)",
+        "CountryISO": "AUS"
+      },
+      "geometry": {
+        "coordinates": [
+          145.464979,
+          -37.666532
+        ],
+        "type": "Point"
+      },
+      "id": "c4c091ac44e17870314110c547c5dc7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Machu Picchu, Peru",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Machu_Picchu",
+        "CountryISO": "PER"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.544784,
+          -13.164415
+        ],
+        "type": "Point"
+      },
+      "id": "cd9f063e92200e1cf80770345fac3a4d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Grand Cayman, Cayman Islands",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Grand_Cayman",
+        "CountryISO": "CYM"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.916631,
+          19.706851
+        ],
+        "type": "Point"
+      },
+      "id": "country.10891624812624610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "St. Kitts and Nevis",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Saint_Kitts",
+        "CountryISO": "KNA"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.66667,
+          17.33
+        ],
+        "type": "Point"
+      },
+      "id": "country.13300039757112580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Jamaica",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Jamaica",
+        "CountryISO": "JAM"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.32178,
+          18.18239
+        ],
+        "type": "Point"
+      },
+      "id": "country.6929200767030280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Everest Base Camp, Nepal",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Everest_base_camps",
+        "CountryISO": "NPL"
+      },
+      "geometry": {
+        "coordinates": [
+          86.859719,
+          28.001304
+        ],
+        "type": "Point"
+      },
+      "id": "d0467280f14ff3a80c0b40671bfe64fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Maasai Mara, Kenya",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Maasai_Mara",
+        "CountryISO": "KEN"
+      },
+      "geometry": {
+        "coordinates": [
+          35.099988,
+          -1.482182
+        ],
+        "type": "Point"
+      },
+      "id": "d32f598e8b7bd610407ff060abdf859a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Wuzhen, China",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Wuzhen",
+        "CountryISO": "CHN"
+      },
+      "geometry": {
+        "coordinates": [
+          120.479658,
+          30.752267
+        ],
+        "type": "Point"
+      },
+      "id": "d3779f4ba4c48f0bcd54d39e9ad0daeb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Yellowstone National Park, Wyoming",
+        "Wiki Link": "https://en.wikipedia.org/wiki/West_Yellowstone,_Montana",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.559175,
+          44.626615
+        ],
+        "type": "Point"
+      },
+      "id": "d6cab312998d98fce642085a8aeb68de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Guatemala City, Guatemala",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Guatemala_City",
+        "CountryISO": "GTM"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.512587,
+          14.642287
+        ],
+        "type": "Point"
+      },
+      "id": "eec5e3c79b0bf3dfbc0fa0c08e283c33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Lorne, Australia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Lorne,_Victoria",
+        "CountryISO": "AUS"
+      },
+      "geometry": {
+        "coordinates": [
+          143.9748,
+          -38.5412
+        ],
+        "type": "Point"
+      },
+      "id": "locality.7550794028953110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Byron Bay, Australia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Byron_Bay,_New_South_Wales",
+        "CountryISO": "AUS"
+      },
+      "geometry": {
+        "coordinates": [
+          153.614,
+          -28.6434
+        ],
+        "type": "Point"
+      },
+      "id": "locality.8150699156587060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Big Sky, Montana",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Big_Sky,_Montana",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.3683,
+          45.2847
+        ],
+        "type": "Point"
+      },
+      "id": "neighborhood.34157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Panajachel, Guatemala",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Panajachel",
+        "CountryISO": "GTM"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.15584,
+          14.73605
+        ],
+        "type": "Point"
+      },
+      "id": "place.10064961865546900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Patong Beach, Thailand",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Seoul",
+        "CountryISO": "KOR"
+      },
+      "geometry": {
+        "coordinates": [
+          127,
+          37.58333
+        ],
+        "type": "Point"
+      },
+      "id": "place.10069031024699340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hong Kong, China",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Hong_Kong",
+        "CountryISO": "HKG"
+      },
+      "geometry": {
+        "coordinates": [
+          114.15861,
+          22.27833
+        ],
+        "type": "Point"
+      },
+      "id": "place.10075881842474470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Macau, China",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Macau",
+        "CountryISO": "MAC"
+      },
+      "geometry": {
+        "coordinates": [
+          113.54348,
+          22.19816
+        ],
+        "type": "Point"
+      },
+      "id": "place.10077357693738330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Kathmandu, Nepal",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Kathmandu",
+        "CountryISO": "NPL"
+      },
+      "geometry": {
+        "coordinates": [
+          85.36667,
+          27.71667
+        ],
+        "type": "Point"
+      },
+      "id": "place.10136933008562850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Tulum, México",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Tulum",
+        "CountryISO": "MEX"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.42889,
+          20.21472
+        ],
+        "type": "Point"
+      },
+      "id": "place.10242092816513090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Denver, Colorado",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Denver",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.9653,
+          39.7348
+        ],
+        "type": "Point"
+      },
+      "id": "place.10256295100046320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Huntsville, Alabama",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Huntsville,_Alabama",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.5859,
+          34.7298
+        ],
+        "type": "Point"
+      },
+      "id": "place.10300480433262670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Athens, Georgia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Athens,_Georgia",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.3767,
+          33.9596
+        ],
+        "type": "Point"
+      },
+      "id": "place.10322416633184700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Surf City, New Jersey",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Long_Beach_Island",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.1651,
+          39.6621
+        ],
+        "type": "Point"
+      },
+      "id": "place.10392020136636820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Breckenridge, Colorado",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Breckenridge",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.0384,
+          39.4817
+        ],
+        "type": "Point"
+      },
+      "id": "place.10398142999452140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Brussels, Belgium",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Brussels",
+        "CountryISO": "BEL"
+      },
+      "geometry": {
+        "coordinates": [
+          4.3547,
+          50.8467
+        ],
+        "type": "Point"
+      },
+      "id": "place.10706876915101710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Cleveland, Ohio",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Cleveland",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.6934,
+          41.5052
+        ],
+        "type": "Point"
+      },
+      "id": "place.10894256077423110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Detroit, Michigan",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Detroit",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.0567,
+          42.3487
+        ],
+        "type": "Point"
+      },
+      "id": "place.11064208939327150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Seattle, Washington",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Seattle",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.3301,
+          47.6038
+        ],
+        "type": "Point"
+      },
+      "id": "place.11115494111229470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "St. Thomas,US Virgin Islands",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Saint_Thomas,_U.S._Virgin_Islands",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.92,
+          18.33
+        ],
+        "type": "Point"
+      },
+      "id": "place.11358606424628032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Honolulu, Hawaii",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Honolulu",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -157.8557,
+          21.3045
+        ],
+        "type": "Point"
+      },
+      "id": "place.11369494896955500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Milwaukee, Wisconsin",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Milwaukee",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.9735,
+          43.0115
+        ],
+        "type": "Point"
+      },
+      "id": "place.11371519950217990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Quito, Ecuador",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Quito",
+        "CountryISO": "ECU"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.50972,
+          -0.21861
+        ],
+        "type": "Point"
+      },
+      "id": "place.11457142266311050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Nairobi, Kenya",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Nairobi",
+        "CountryISO": "KEN"
+      },
+      "geometry": {
+        "coordinates": [
+          36.81667,
+          -1.28333
+        ],
+        "type": "Point"
+      },
+      "id": "place.11613539139601280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Salt Lake City, Utah",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Salt_Lake_City",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.8904,
+          40.767
+        ],
+        "type": "Point"
+      },
+      "id": "place.11659519156302480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "San Diego, California",
+        "Wiki Link": "https://en.wikipedia.org/wiki/San_Diego",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.1628,
+          32.717399
+        ],
+        "type": "Point"
+      },
+      "id": "place.11741308809618150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "New Brunswick, New Jersey",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Rochester,_New_York",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.4518,
+          40.4862
+        ],
+        "type": "Point"
+      },
+      "id": "place.12204669969722160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Pisa, Italy",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Pisa",
+        "CountryISO": "ITA"
+      },
+      "geometry": {
+        "coordinates": [
+          10.4,
+          43.71667
+        ],
+        "type": "Point"
+      },
+      "id": "place.12462356034557530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Orlando, Florida",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Orlando,_Florida",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.379,
+          28.5421
+        ],
+        "type": "Point"
+      },
+      "id": "place.12530178395250330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Cocoa Beach, Florida",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Cocoa_Beach,_Florida",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.6076,
+          28.32
+        ],
+        "type": "Point"
+      },
+      "id": "place.12696738793599380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rio De Janeiro, Brazil",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+        "CountryISO": "BRA"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.2094,
+          -22.911
+        ],
+        "type": "Point"
+      },
+      "id": "place.12892673545980170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Camden, New Jersey",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Camden,_New_Jersey",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.1199,
+          39.9448
+        ],
+        "type": "Point"
+      },
+      "id": "place.13141950478304240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hangzhou, China",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Hangzhou",
+        "CountryISO": "CHN"
+      },
+      "geometry": {
+        "coordinates": [
+          120.15507,
+          30.2741
+        ],
+        "type": "Point"
+      },
+      "id": "place.13345160766152970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Port Sanilac, Michigan",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Port_Sanilac,_Michigan",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.5424,
+          43.4309
+        ],
+        "type": "Point"
+      },
+      "id": "place.13594306600027090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Doha, Qatar",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Doha",
+        "CountryISO": "QAT"
+      },
+      "geometry": {
+        "coordinates": [
+          51.53333,
+          25.3
+        ],
+        "type": "Point"
+      },
+      "id": "place.13606430765496580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Pisgah Forest, North Carolina",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Pisgah_Forest,_North_Carolina",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.71,
+          35.28
+        ],
+        "type": "Point"
+      },
+      "id": "place.13767659692884950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Berlin, Germany",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Berlin",
+        "CountryISO": "DEU"
+      },
+      "geometry": {
+        "coordinates": [
+          13.38333,
+          52.51667
+        ],
+        "type": "Point"
+      },
+      "id": "place.13791632787564380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Charlotte, North Carolina",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Charlotte,_North_Carolina",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.8431,
+          35.2271
+        ],
+        "type": "Point"
+      },
+      "id": "place.14042476212103280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Miami Beach, Florida",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Miami_Beach,_Florida",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.1273,
+          25.7881
+        ],
+        "type": "Point"
+      },
+      "id": "place.14042787815965480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Pittsburgh, Pennsylvania",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Pittsburgh",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.9901,
+          40.4417
+        ],
+        "type": "Point"
+      },
+      "id": "place.14178711833540730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hoboken, New Jersey",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Hoboken,_New_Jersey",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.0324,
+          40.7433
+        ],
+        "type": "Point"
+      },
+      "id": "place.14275118147899120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Myrtle Beach, South Carolina",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Myrtle_Beach,_South_Carolina",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.89,
+          33.6956
+        ],
+        "type": "Point"
+      },
+      "id": "place.14333305170316090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Santa Barbara, California",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Santa_Barbara,_California",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.697,
+          34.4098
+        ],
+        "type": "Point"
+      },
+      "id": "place.14888060985445190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Grand Canyon National Park, Arizona",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Grand_Canyon",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.0985,
+          36.0966
+        ],
+        "type": "Point"
+      },
+      "id": "place.14896414922939600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Fort Lauderdale, Florida",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Fort_Lauderdale,_Florida",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.1434,
+          26.1223
+        ],
+        "type": "Point"
+      },
+      "id": "place.14948736922061830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Atlantic City, New Jersey",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.4229,
+          39.3643
+        ],
+        "type": "Point"
+      },
+      "id": "place.14967081316580530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Paje, Tanzania",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Paje,_Zanzibar",
+        "CountryISO": "TZA"
+      },
+      "geometry": {
+        "coordinates": [
+          39.534072,
+          -6.266745
+        ],
+        "type": "Point"
+      },
+      "id": "place.14969325353645330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Córdoba, Spain",
+        "Wiki Link": "https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Spain",
+        "CountryISO": "ESP"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.76667,
+          37.88333
+        ],
+        "type": "Point"
+      },
+      "id": "place.15002797143786980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Valdosta, Georgia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Valdosta,_Georgia",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.2785,
+          30.8327
+        ],
+        "type": "Point"
+      },
+      "id": "place.15061503787960400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "San Miguel De Allende, México",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Teotihuacan",
+        "CountryISO": "MEX"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.74389,
+          20.91528
+        ],
+        "type": "Point"
+      },
+      "id": "place.15265025198701110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Silverthorne, Colorado",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Silverthorne,_Colorado",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.062,
+          39.6375
+        ],
+        "type": "Point"
+      },
+      "id": "place.15266328028326060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "New York, New York",
+        "Wiki Link": "https://en.wikipedia.org/wiki/New_York_City",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9808,
+          40.7648
+        ],
+        "type": "Point"
+      },
+      "id": "place.15278078705964500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Philadelphia, Pennsylvania",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Philadelphia",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.1327,
+          40.0115
+        ],
+        "type": "Point"
+      },
+      "id": "place.15631048232712250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "San Francisco, California",
+        "Wiki Link": "https://en.wikipedia.org/wiki/San_Francisco",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.463,
+          37.7648
+        ],
+        "type": "Point"
+      },
+      "id": "place.15734669613559250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Midland, Michigan",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Midland,_Michigan",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.2472,
+          43.6156
+        ],
+        "type": "Point"
+      },
+      "id": "place.15880936132693220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Minneapolis, Minnesota",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Minneapolis",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.2655,
+          44.9773
+        ],
+        "type": "Point"
+      },
+      "id": "place.16036757287885940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Williamsport, Pennsylvania, United States",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Williamsport,_Pennsylvania",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0028,
+          41.2493
+        ],
+        "type": "Point"
+      },
+      "id": "place.16699858328845210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Cannes, France",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Cannes",
+        "CountryISO": "FRA"
+      },
+      "geometry": {
+        "coordinates": [
+          7.02139,
+          43.5525
+        ],
+        "type": "Point"
+      },
+      "id": "place.16822679660671640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Antigua, Guatemala",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Antigua_Guatemala",
+        "CountryISO": "GTM"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.73333,
+          14.56667
+        ],
+        "type": "Point"
+      },
+      "id": "place.16874676301437240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rochester, New York",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Rochester,_New_York",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.6152,
+          43.1573
+        ],
+        "type": "Point"
+      },
+      "id": "place.17954033999320780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Cherry Hill, New Jersey",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Cherry_Hill,_New_Jersey",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.0307,
+          39.9348
+        ],
+        "type": "Point"
+      },
+      "id": "place.18082879064118640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Monterey, California",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Monterey,_California",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.8946,
+          36.6003
+        ],
+        "type": "Point"
+      },
+      "id": "place.18146370355757520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Lahaina, Hawaii",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Lahaina,_Hawaii",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -156.6763,
+          20.8727
+        ],
+        "type": "Point"
+      },
+      "id": "place.18586934105310920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Tampa, Florida",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Tampa,_Florida",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.4584,
+          27.9478
+        ],
+        "type": "Point"
+      },
+      "id": "place.19100434526147560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Chicago, Illinois",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Chicago",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.6244,
+          41.8756
+        ],
+        "type": "Point"
+      },
+      "id": "place.1924128844701850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sevilla, Spain",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Seville",
+        "CountryISO": "ESP"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.98333,
+          37.38333
+        ],
+        "type": "Point"
+      },
+      "id": "place.2169753145274040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Las Vegas, Nevada",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Las_Vegas",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.1492,
+          36.1663
+        ],
+        "type": "Point"
+      },
+      "id": "place.2306727987317920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Asheville, North Carolina",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Asheville,_North_Carolina",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.554,
+          35.6009
+        ],
+        "type": "Point"
+      },
+      "id": "place.2310331354106450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Raleigh, North Carolina",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Raleigh,_North_Carolina",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.6391,
+          35.7804
+        ],
+        "type": "Point"
+      },
+      "id": "place.2314075936355940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "St John, US Virgin Islands",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Saint_John,_U.S._Virgin_Islands",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.79,
+          18.33
+        ],
+        "type": "Point"
+      },
+      "id": "place.2433050297205790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Park City, Utah",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Park_City,_Utah",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.498,
+          40.6461
+        ],
+        "type": "Point"
+      },
+      "id": "place.2481387629692240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Nassau, The Bahamas",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Paradise_Island",
+        "CountryISO": "BHS"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.338333,
+          25.078345
+        ],
+        "type": "Point"
+      },
+      "id": "place.2512926541778940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Dar es Salaam, Tanzania",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Dar_es_Salaam",
+        "CountryISO": "TZA"
+      },
+      "geometry": {
+        "coordinates": [
+          39.279,
+          -6.818
+        ],
+        "type": "Point"
+      },
+      "id": "place.2733543309712569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Banff, Canada",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Banff_National_Park",
+        "CountryISO": "CAN"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.5683,
+          51.1778
+        ],
+        "type": "Point"
+      },
+      "id": "place.2870765910878460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Scranton, Pennsylvania",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Scranton,_Pennsylvania",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.6621,
+          41.4087
+        ],
+        "type": "Point"
+      },
+      "id": "place.3418731431380520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Emerald Isle, North Carolina",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Emerald_Isle,_North_Carolina",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.9508,
+          34.6779
+        ],
+        "type": "Point"
+      },
+      "id": "place.3754625216249350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Highlands, North Carolina",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Highlands,_North_Carolina",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.1968,
+          35.0526
+        ],
+        "type": "Point"
+      },
+      "id": "place.3802392803309730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Berkeley, California",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Berkeley,_California",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.2729,
+          37.8708
+        ],
+        "type": "Point"
+      },
+      "id": "place.4062647275990170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Saint Augustine, Florida",
+        "Wiki Link": "https://en.wikipedia.org/wiki/St._Augustine,_Florida",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.4165,
+          29.8961
+        ],
+        "type": "Point"
+      },
+      "id": "place.4135166430329820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Teotihuacán, México",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Teotihuacan",
+        "CountryISO": "MEX"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.86,
+          19.68
+        ],
+        "type": "Point"
+      },
+      "id": "place.4401686971012500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Lewisburg, Pennsylvania",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Lewisburg,_Pennsylvania",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.8844,
+          40.9645
+        ],
+        "type": "Point"
+      },
+      "id": "place.4492605565276920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sydney, Australia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Sydney",
+        "CountryISO": "AUS"
+      },
+      "geometry": {
+        "coordinates": [
+          151.21,
+          -33.868
+        ],
+        "type": "Point"
+      },
+      "id": "place.4960085988742460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Oklahoma City, Oklahoma",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Oklahoma_City",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.5171,
+          35.473
+        ],
+        "type": "Point"
+      },
+      "id": "place.5050456053814370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Saginaw, Michigan",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Saginaw,_Michigan",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.949,
+          43.42
+        ],
+        "type": "Point"
+      },
+      "id": "place.5123829960603440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Wiki Link": "https://en.wikipedia.org/wiki/Mexico_City",
+        "place_name": "México City, México",
+        "CountryISO": "MEX"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.14556,
+          19.41944
+        ],
+        "type": "Point"
+      },
+      "id": "place.5154037879100080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ponta Delgada, Azores, Portugal",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Ponta_Delgada",
+        "CountryISO": "PRT"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.67,
+          37.74
+        ],
+        "type": "Point"
+      },
+      "id": "place.5234414648393980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Oxford, Ohio",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Oxford,_Ohio",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.7421,
+          39.5103
+        ],
+        "type": "Point"
+      },
+      "id": "place.5393579746048000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Houston, Texas",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Houston",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.3677,
+          29.7589
+        ],
+        "type": "Point"
+      },
+      "id": "place.5436822898172470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sorrento, Italy",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Sorrento",
+        "CountryISO": "ITA"
+      },
+      "geometry": {
+        "coordinates": [
+          14.37361,
+          40.62778
+        ],
+        "type": "Point"
+      },
+      "id": "place.5664892775097860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Shanghai, China",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Shanghai",
+        "CountryISO": "CHN"
+      },
+      "geometry": {
+        "coordinates": [
+          121.46667,
+          31.16667
+        ],
+        "type": "Point"
+      },
+      "id": "place.5717452319410970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Panama City Beach",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Panama_City_Beach,_Florida",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.81,
+          30.18
+        ],
+        "type": "Point"
+      },
+      "id": "place.5775616955577500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Whistler, Canada",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Whistler_Blackcomb",
+        "CountryISO": "CAN"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.9543,
+          50.1172
+        ],
+        "type": "Point"
+      },
+      "id": "place.5819817410396920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Vancouver, Canada",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Vancouver",
+        "CountryISO": "CAN"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.1139,
+          49.2609
+        ],
+        "type": "Point"
+      },
+      "id": "place.5944060364130490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Lynchburg, Virginia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Lynchburg,_Virginia",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.1422,
+          37.4138
+        ],
+        "type": "Point"
+      },
+      "id": "place.6324556479298160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ann Arbor, Michigan",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.7312,
+          42.2682
+        ],
+        "type": "Point"
+      },
+      "id": "place.6366874258050890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Santa Cruz, California",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Santa_Cruz,_California",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.0294,
+          36.9746
+        ],
+        "type": "Point"
+      },
+      "id": "place.6546589196815750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Cambridge, Massachusetts",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Cambridge,_Massachusetts",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.1056,
+          42.3751
+        ],
+        "type": "Point"
+      },
+      "id": "place.6615246569680360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Cancún, México",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+        "CountryISO": "MEX"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.8475,
+          21.16056
+        ],
+        "type": "Point"
+      },
+      "id": "place.6620806973810330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Napoli, Italy",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Naples",
+        "CountryISO": "ITA"
+      },
+      "geometry": {
+        "coordinates": [
+          14.25,
+          40.83333
+        ],
+        "type": "Point"
+      },
+      "id": "place.6684570716706730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Portland, Maine",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Portland,_Maine",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.2549,
+          43.661
+        ],
+        "type": "Point"
+      },
+      "id": "place.6687728870326360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mansfield, Pennsylvania",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Mansfield,_Pennsylvania",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0793,
+          41.8057
+        ],
+        "type": "Point"
+      },
+      "id": "place.6728921233159070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Geneva, New York",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Geneva",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.9777,
+          42.869
+        ],
+        "type": "Point"
+      },
+      "id": "place.6743870303408720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Melbourne, Australia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Melbourne",
+        "CountryISO": "AUS"
+      },
+      "geometry": {
+        "coordinates": [
+          144.9632,
+          -37.8142
+        ],
+        "type": "Point"
+      },
+      "id": "place.7068896531111320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Montvale, New Jersey",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Montvale,_New_Jersey",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.0229,
+          41.0468
+        ],
+        "type": "Point"
+      },
+      "id": "place.7196767078802800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Los Angeles, California",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Los_Angeles",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2439,
+          34.0544
+        ],
+        "type": "Point"
+      },
+      "id": "place.7397503093427640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Lakeland, Florida",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Lakeland,_Florida",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.9498,
+          28.0395
+        ],
+        "type": "Point"
+      },
+      "id": "place.7451246298670510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Washington, District of Columbia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0366,
+          38.895
+        ],
+        "type": "Point"
+      },
+      "id": "place.7673410831246050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Anaheim, California",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Anaheim,_California",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.9117,
+          33.8348
+        ],
+        "type": "Point"
+      },
+      "id": "place.7749226041161420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Calgary, Canada",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Calgary",
+        "CountryISO": "CAN"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.0626,
+          51.0531
+        ],
+        "type": "Point"
+      },
+      "id": "place.7943223081734240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Barcelona, Spain",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Barcelona",
+        "CountryISO": "ESP"
+      },
+      "geometry": {
+        "coordinates": [
+          2.17694,
+          41.3825
+        ],
+        "type": "Point"
+      },
+      "id": "place.8188885146167790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Cusco, Peru",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Cusco",
+        "CountryISO": "PER"
+      },
+      "geometry": {
+        "coordinates": [
+          -72,
+          -13.5
+        ],
+        "type": "Point"
+      },
+      "id": "place.8203249823524810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Atlanta, Georgia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Atlanta",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.3902,
+          33.7491
+        ],
+        "type": "Point"
+      },
+      "id": "place.8296328245173260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Juneau, Alaska",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Juneau,_Alaska",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -134.4197,
+          58.3019
+        ],
+        "type": "Point"
+      },
+      "id": "place.8436150996226870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Stanford, California",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Palo_Alto,_California",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.1677,
+          37.4248
+        ],
+        "type": "Point"
+      },
+      "id": "place.8487619721879330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Frisco, Colorado",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Frisco,_Colorado",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.0975,
+          39.5744
+        ],
+        "type": "Point"
+      },
+      "id": "place.8604238908871430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Reykjavík, Iceland",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+        "CountryISO": "ISL"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.88333,
+          64.15
+        ],
+        "type": "Point"
+      },
+      "id": "place.8611505275615200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "London, England",
+        "Wiki Link": "https://en.wikipedia.org/wiki/London",
+        "CountryISO": "GBR"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ],
+        "type": "Point"
+      },
+      "id": "place.8780954591631530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Dallas, Texas",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Dallas",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.7969,
+          32.7763
+        ],
+        "type": "Point"
+      },
+      "id": "place.8813324960701420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Cairns, Australia",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Cairns",
+        "CountryISO": "AUS"
+      },
+      "geometry": {
+        "coordinates": [
+          145.7719,
+          -16.9205
+        ],
+        "type": "Point"
+      },
+      "id": "place.8873698301355730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Vail, Colorado",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Vail,_Colorado",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.3862,
+          39.6426
+        ],
+        "type": "Point"
+      },
+      "id": "place.8978858915231930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Firenze, Italy",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Florence",
+        "CountryISO": "ITA"
+      },
+      "geometry": {
+        "coordinates": [
+          11.25417,
+          43.77139
+        ],
+        "type": "Point"
+      },
+      "id": "place.8996056115957560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Roma, Italy",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Rome",
+        "CountryISO": "ITA"
+      },
+      "geometry": {
+        "coordinates": [
+          12.48278,
+          41.89306
+        ],
+        "type": "Point"
+      },
+      "id": "place.9045806458813870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Baños de Agua Santa, Ecuador",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Ba%C3%B1os_de_Agua_Santa",
+        "CountryISO": "ECU"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.4229,
+          -1.397
+        ],
+        "type": "Point"
+      },
+      "id": "place.9061161546592570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Paris, France",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Paris",
+        "CountryISO": "FRA"
+      },
+      "geometry": {
+        "coordinates": [
+          2.35183,
+          48.85658
+        ],
+        "type": "Point"
+      },
+      "id": "place.9375144769497330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Baltimore, Maryland",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Baltimore",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.6108,
+          39.2909
+        ],
+        "type": "Point"
+      },
+      "id": "place.9378464438339210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Boston, Massachusetts",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Boston",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.0596,
+          42.3605
+        ],
+        "type": "Point"
+      },
+      "id": "place.9391334652012190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Pompeii, Italy",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Pompeii",
+        "CountryISO": "ITA"
+      },
+      "geometry": {
+        "coordinates": [
+          14.48972,
+          40.75056
+        ],
+        "type": "Point"
+      },
+      "id": "place.9455177022728280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bozeman, Montana",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Bozeman,_Montana",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.0447,
+          45.68
+        ],
+        "type": "Point"
+      },
+      "id": "place.9509788236227290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Montepulciano, Italy",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Montepulciano",
+        "CountryISO": "ITA"
+      },
+      "geometry": {
+        "coordinates": [
+          11.78333,
+          43.1
+        ],
+        "type": "Point"
+      },
+      "id": "place.9574116973029200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Haines, Alaska",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Haines,_Alaska",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -135.445,
+          59.2358
+        ],
+        "type": "Point"
+      },
+      "id": "place.9625421424075540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Oakland, California",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Oakland,_California",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.2714,
+          37.8045
+        ],
+        "type": "Point"
+      },
+      "id": "place.9661621535973970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Amsterdam, Netherlands",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Amsterdam",
+        "CountryISO": "NLD"
+      },
+      "geometry": {
+        "coordinates": [
+          4.9,
+          52.378
+        ],
+        "type": "Point"
+      },
+      "id": "place.9718548927723970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Miami, Florida",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Miami",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.1937,
+          25.7743
+        ],
+        "type": "Point"
+      },
+      "id": "place.9791754866122320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bay City, Michigan",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Bay_City,_Michigan",
+        "CountryISO": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.8889,
+          43.5945
+        ],
+        "type": "Point"
+      },
+      "id": "place.9830050760261580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Orvieto, Italy",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Orvieto",
+        "CountryISO": "ITA"
+      },
+      "geometry": {
+        "coordinates": [
+          12.1,
+          42.71667
+        ],
+        "type": "Point"
+      },
+      "id": "place.9921043108622360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Dublin, Ireland",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Dublin",
+        "CountryISO": "IRL"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.26583,
+          53.3425
+        ],
+        "type": "Point"
+      },
+      "id": "place.9999340047877740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ilha de São Jorge, Portugal",
+        "Wiki Link": "https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Island",
+        "CountryISO": "PRT"
+      },
+      "geometry": {
+        "coordinates": [
+          -28.01722,
+          38.62778
+        ],
+        "type": "Point"
+      },
+      "id": "region.2958810984937821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ilha de São Miguel, Portugal",
+        "Wiki Link": "https://en.wikipedia.org/wiki/S%C3%A3o_Miguel_Island",
+        "CountryISO": "PRT"
+      },
+      "geometry": {
+        "coordinates": [
+          -25.5,
+          37.8
+        ],
+        "type": "Point"
+      },
+      "id": "region.9230088105099412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sint Maarten",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Saint_Martin",
+        "CountryISO": "ANT"
+      },
+      "geometry": {
+        "coordinates": [
+          -63.06778,
+          18.03194
+        ],
+        "type": "Point"
+      },
+      "id": "region.9318830579818590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Jinja, Uganda",
+        "Wiki Link": "https://en.wikipedia.org/wiki/Jinja,_Uganda",
+        "CountryISO": "UGA"
+      },
+      "geometry": {
+        "coordinates": [
+          33.2,
+          0.58333
+        ],
+        "type": "Point"
+      },
+      "id": "region.9534079619783460"
+    }
+  ],
+  "type": "FeatureCollection"
+}
